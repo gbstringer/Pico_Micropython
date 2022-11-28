@@ -19,3 +19,11 @@ Examples of how to connect a string of addressable RGB LEDs (neopixels) to creat
 ## i2c_display
 
 Examples to connect an LCD display that uses the i2c protocol
+
+## pico_display
+
+Tests with the Pimoroni 'pico_display' LCD backpack
+
+## pico_explorer
+
+Experiments with the various features built into the Pimoroni Pico Explorer Base
