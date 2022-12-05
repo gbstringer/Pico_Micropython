@@ -1,5 +1,5 @@
 # Pico_Micropython
-A repository of miscellaneous micropython code.
+A repository of miscellaneous micropython code. This is intended to form a collection of downloadable python code that can be used as examples for learning coding for physical computing.
 
 Much of this repository is cloned/forked from other repos and adapted to a greater or lesser extent. Notable repos include: 
 
