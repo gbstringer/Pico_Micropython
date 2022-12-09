@@ -89,8 +89,10 @@ def describe_pressure(pressure):
 # converts humidity into good/bad description
 def describe_humidity(humidity):
     if 40 < humidity < 60:
-        description = "good"
-    else:
+        description = "just right"
+    elif humidity >= 60:
+        description = "too humid"
+    elif humidity <= 40: 
         description = "bad"
     return description
 
