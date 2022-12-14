@@ -20,6 +20,9 @@
  e-mail:- muthuswamy.pugazhendi@gmail.com
 '''
 
+MAX7219_DIN = 3		# SPI input
+MAX7219_CS = 5		# SPI Chip Select
+MAX7219_CLOCK = 2	# SPI Serial Clock
 
 
 # Import MicroPython libraries of PIN and SPI
