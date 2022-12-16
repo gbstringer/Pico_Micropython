@@ -8,6 +8,8 @@ Much of this repository is cloned/forked from other repos and adapted to a great
 
 It's mostly used to experiment with code for teaching Python for beginners, using the Pimoroni Pico Explorer Base and other bits and pieces.
 
+Many thanks to the original authors, and to Pimoroni, for the work that has gone into these modules, drivers and examples - it's much appreciated!
+
 ## blinky
 
 A simple example of how to construct a ciruit to blink an LED on and off in various ways
