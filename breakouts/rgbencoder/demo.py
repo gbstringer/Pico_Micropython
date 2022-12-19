@@ -6,7 +6,7 @@ PINS_PICO_EXPLORER = {"sda": 20, "scl": 21}
 
 steps_per_rev = 24
 
-i2c = PimoroniI2C(**PINS_BREAKOUT_GARDEN)
+i2c = PimoroniI2C(**PINS_PICO_EXPLORER)
 enc = BreakoutEncoder(i2c)
 
 enc.set_brightness(1.0)
